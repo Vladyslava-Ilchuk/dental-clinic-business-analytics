@@ -10,7 +10,7 @@
 
 ## 📌 Project Overview
 
-This project presents a comprehensive business analysis of a simulated dental clinic based on 15 months of operational data. The objective was to identify the key factors affecting profitability, evaluate doctor performance, analyze client retention patterns, and formulate strategic recommendations to improve overall business outcomes.
+This project presents a comprehensive business analysis of a simulated dental clinic based on 12 months of operational data. The objective was to identify the key factors affecting profitability, evaluate doctor performance, analyze client retention patterns, and formulate strategic recommendations to improve overall business outcomes.
 
 The analysis was conducted entirely in Google Sheets, demonstrating how spreadsheet tools can support data-driven decision-making and business optimization.
 
