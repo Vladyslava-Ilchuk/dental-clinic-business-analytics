@@ -118,4 +118,4 @@ It highlights competencies in business analysis, hypothesis testing, profitabili
 - Hypothesis Testing
 - Data Visualization
 - Strategic Recommendation Development
-- 
+
